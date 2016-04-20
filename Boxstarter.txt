@@ -8,14 +8,21 @@ cinst sublimetext2
 cinst poshgit
 cinst dotpeek
 cinst babun
+
+
 cinst jdk8 
+cinst maven
+cinst gradle
+
+cinst golang
+cinst nodejs.install
+
 cinst intellijidea-ultimate
 
 cinst libreoffice
 cinst googlechrome
 cinst firefox
 
-cinst nodejs.install
 cinst dropbox
 cinst db-visualizer
 cinst thunderbird
@@ -26,5 +33,10 @@ cinst packer
 cinst otto
 
 cinst docker
+
+cinst hugo
+
+cinst youtube-dl
+
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
