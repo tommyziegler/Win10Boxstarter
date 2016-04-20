@@ -13,6 +13,8 @@ cinst javaruntime
 cinst maven
 cinst gradle
 
+cinst tomcat
+
 cinst golang
 cinst nodejs.install
 
@@ -25,7 +27,7 @@ cinst db-visualizer
 cinst sublimetext2
 cinst fiddler4
 cinst youtube-dl
-
+cinst windirstat
 
 cinst googlechrome
 cinst firefox
@@ -41,6 +43,7 @@ cinst otto
 cinst docker
 cinst hugo
 
-
+cinst kodi
+cinst itunes
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
