@@ -1,12 +1,10 @@
 Set-ExplorerOptions -showHiddenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
 Enable-RemoteDesktop
 
-cinst fiddler4
 cinst git-credential-winstore
-cinst console-devel
-cinst sublimetext2
 cinst poshgit
-cinst dotpeek
+
+cinst console-devel
 cinst babun
 
 
@@ -19,14 +17,21 @@ cinst golang
 cinst nodejs.install
 
 cinst intellijidea-ultimate
+cinst visualstudio2015professional
+cinst dotpeek
 
-cinst libreoffice
+cinst db-visualizer
+
+cinst sublimetext2
+cinst fiddler4
+cinst youtube-dl
+
+
 cinst googlechrome
 cinst firefox
-
-cinst dropbox
-cinst db-visualizer
 cinst thunderbird
+cinst libreoffice
+cinst dropbox
 
 cinst virtualbox
 cinst vagrant
@@ -34,10 +39,8 @@ cinst packer
 cinst otto
 
 cinst docker
-
 cinst hugo
 
-cinst youtube-dl
 
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
