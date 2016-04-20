@@ -10,7 +10,8 @@ cinst dotpeek
 cinst babun
 
 
-cinst jdk8 
+cinst jdk8
+cinst javaruntime
 cinst maven
 cinst gradle
 
