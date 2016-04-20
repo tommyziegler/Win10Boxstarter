@@ -35,6 +35,7 @@ cinst postgresql
 cinst mongodb
 cinst couchdb
 cinst redis
+cinst elasticsearch
 
 # Database Client
 cinst db-visualizer
