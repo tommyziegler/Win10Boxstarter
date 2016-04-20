@@ -28,6 +28,14 @@ cinst intellijidea-ultimate
 cinst visualstudio2015professional -packageParameters "--Features VC_MFC_Libraries, NativeLanguageSupport_VCV1, Win81SDK_HiddenV1"
 cinst dotpeek
 
+# Database Server
+cinst mariadb
+cinst neo4j-community
+cinst postgresql
+cinst mongodb
+cinst couchdb
+cinst redis
+
 # Database Client
 cinst db-visualizer
 
